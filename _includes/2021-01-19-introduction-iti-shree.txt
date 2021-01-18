@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Just introductory blog"
+categories: general
+---
+
+This is just a test blog to see if it works.
